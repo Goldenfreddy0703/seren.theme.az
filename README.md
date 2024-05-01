@@ -1,6 +1,6 @@
 ## Theme for Seren & Artic Zephyr users
                   SmartPlay PopUp             
-![nextup up popup](https://github.com/Goldenfreddy0703/seren.theme.af/assets/62456796/18f16391-aeb0-42d1-8b09-4096b59651cb
+![nextup up popup](https://github.com/Goldenfreddy0703/seren.theme.az/assets/62456796/abe21603-454c-4e07-bdc3-1781bfa5b7ec
 )
 
 |                   Scraping                   |                   Source Select                   |
