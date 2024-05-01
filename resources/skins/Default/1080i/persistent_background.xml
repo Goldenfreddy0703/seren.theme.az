@@ -82,7 +82,7 @@
             <top>120</top>
             <left>1400</left>
             <control type="label">
-                <top>-900</top>
+                <top>-10</top>
                 <width>400</width>
                 <font>font12</font>
                 <textcolor>AAFFFFFF</textcolor>
@@ -101,7 +101,7 @@
             <control type="group">
                 <top>420</top>
                 <control type="label">
-                    <top>20</top>
+                    <top>250</top>
                     <width>400</width>
                     <font>font14</font>
                     <textcolor>AAFFFFFF</textcolor>
@@ -121,7 +121,7 @@
                     </label>
                 </control>
                 <control type="label">
-                    <top>120</top>
+                    <top>300</top>
                     <width>400</width>
                     <font>font12</font>
                     <textcolor>AAFFFFFF</textcolor>
@@ -166,7 +166,7 @@
 
         <control type="label">
             <left>-200</left>
-            <top>10</top>
+            <top>510</top>
             <width>100%</width>
             <font>font12</font>
             <align>center</align>
