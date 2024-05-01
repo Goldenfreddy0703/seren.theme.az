@@ -86,7 +86,7 @@
             <top>120</top>
             <left>1400</left>
             <control type="label">
-                <top>-900</top>
+                <top>-10</top>
                 <width>400</width>
                 <font>font12</font>
                 <textcolor>AAFFFFFF</textcolor>
@@ -105,7 +105,7 @@
             <control type="group">
                 <top>420</top>
                 <control type="label">
-                    <top>20</top>
+                    <top>250</top>
                     <width>400</width>
                     <font>font14</font>
                     <textcolor>AAFFFFFF</textcolor>
@@ -125,7 +125,7 @@
                     </label>
                 </control>
                 <control type="label">
-                    <top>120</top>
+                    <top>300</top>
                     <width>400</width>
                     <font>font12</font>
                     <textcolor>AAFFFFFF</textcolor>
@@ -166,10 +166,10 @@
       	    <width>20</width>
       	    <height>838</height>
       	    <visible>true</visible>
-            <texturesliderbackground colordiffuse="9900000" border="4">special://home/userdata/addon_data/plugin.video.seren/skins/SerenMod-Full/resources/skins/media/white.png</texturesliderbackground>
-            <texturesliderbar colordiffuse="4dcccccc" border="4">special://home/userdata/addon_data/plugin.video.seren/skins/SerenMod-Full/resources/skins/media/scrollv.png</texturesliderbar>
-            <texturesliderbarfocus colordiffuse="99ffffff" border="4">special://home/userdata/addon_data/plugin.video.seren/skins/SerenMod-Full/resources/skins/media/scrollv.png</texturesliderbarfocus>
-      	    <pulseonselect></pulseonselect>
+            <!--<texturesliderbackground colordiffuse="9900000" border="4">special://home/userdata/addon_data/plugin.video.otaku/resources/skins/Default/media/white.png</texturesliderbackground>-->
+            <!--<texturesliderbar colordiffuse="4dcccccc" border="4">special://home/userdata/addon_data/plugin.video.otaku/resources/skins/Default/media/scrollv.png</texturesliderbar>-->
+            <!-- <texturesliderbarfocus colordiffuse="99ffffff" border="4">special://home/userdata/addon_data/plugin.video.otaku/resources/skins/Default/media/scrollv.png</texturesliderbarfocus>-->
+      	    <pulseonselect>no</pulseonselect>
       	    <orientation>vertical</orientation>
       	    <showonepage>false</showonepage>
             <onleft>1000</onleft>
