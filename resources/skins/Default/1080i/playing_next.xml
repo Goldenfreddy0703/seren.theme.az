@@ -48,7 +48,7 @@
                 <centertop>133</centertop>
                 <centerleft>50%</centerleft>
                 <aspectratio scalediffuse="false">keep</aspectratio>
-                <texture colordiffuse="dfffffff">common/circle.png</texture>
+                <texture colordiffuse="$VAR[ColorHighlight]">common/circle.png</texture>
             </control>
             <control type="label">
                 <description>Remaining</description>
@@ -57,7 +57,7 @@
                 <width>885</width>
                 <font>TinyBold</font>
                 <align>center</align>
-                <textcolor>ffededed</textcolor>
+                <textcolor>$VAR[ColorHighlight]</textcolor>
                 <label>$INFO[Player.TimeRemaining(ss)]</label>
             </control>
 
